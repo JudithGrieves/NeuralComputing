@@ -1,2 +1,2 @@
 # NeuralComputing
-# MSc Neural Computing coursework submission
+MSc Neural Computing coursework submission
